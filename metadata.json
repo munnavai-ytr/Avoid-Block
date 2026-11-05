@@ -1,0 +1,6 @@
+{
+  "name": "PURELOCK",
+  "description": "Adult Website Blocker and Self-Control Protection Application. Stay Focused. Stay Protected.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
